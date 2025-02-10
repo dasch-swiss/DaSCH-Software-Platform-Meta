@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.6](https://github.com/dasch-swiss/dsp-meta/compare/dsp-meta-v2.3.5...dsp-meta-v2.3.6) (2025-02-10)
+
+
+### Project Data
+
+* Update lhtt.json ([#312](https://github.com/dasch-swiss/dsp-meta/issues/312)) ([1419b79](https://github.com/dasch-swiss/dsp-meta/commit/1419b797f3115a13b317fc814ef998c6155b5e99))
+
 ## [2.3.5](https://github.com/dasch-swiss/dsp-meta/compare/dsp-meta-v2.3.4...dsp-meta-v2.3.5) (2025-02-10)
 
 
